@@ -1,0 +1,543 @@
+{
+  "header": {
+    "eyebrow": "READY VALLEY 2029",
+    "title": "Fraser Valley Pandemic Preparedness Project Proposal",
+    "subtitle": "Checklist report and initial project charter",
+    "meta": "Proposal due November 23 | Target completion December 31, 2029 | Hypothetical investment: CAD $1,000,000,000"
+  },
+  "intro": {
+    "id": "introduction",
+    "title": "Introduction and proposal status",
+    "paragraphs": [
+      "Ready Valley 2029 suggests a Fraser Valley readiness network that would connect early warning, testing, upgrading facilities, rotation of facilities, community support, and public communications. Both Canada's pandemic plan and the guidance for WHO's collaborative surveillance indicate that connected surveillance, health services, community protection and response coordination are essential components of the pandemic (Public Health Agency of Canada [PHAC], n.d.; World Health Organization [WHO], 2023).",
+      "The proposal is in response to gaps found in federal and BC COVID-19 reviews, such as readiness, sharing of data, gaps in risk assessment, communication, and trust and partnership (OAG, 2021; Government of British Columbia, 2022). A regional approach is relevant since Fraser Health provides care to more than 1.9 million individuals in 20 communities (Fraser Health, 2024).",
+      "This proposal doesn't have any connection to any hospital and tracking application. It includes selected-site enhancements, aggregate indicators checked for privacy, testing logistics, easily accessible communication, and a paid surge workforce. There is a $80 million Pandemic Readiness Reserve Fund that provides funds for response based on triggers. $1 billion and December 31, 2029 date is an assumption - roles, costs, targets and schedule must be approved and validated."
+    ]
+  },
+  "sections": [
+    {
+      "id": "sec-1",
+      "numberLabel": "1",
+      "title": "1. Time page and schedule",
+      "category": "schedule-cost",
+      "categoryLabel": "Schedule & Cost",
+      "paragraphs": [
+        "Once the project is approved, in late 2026, the work will begin and it will close by 31 December 2029 with the Proposal due date being 23 November 2026. Waterfall gates sequence requirements, design, procurement, delivery, testing and handover. Periods and milestones are outlined in the detailed Gantt chart. The charter guide provides assistance with creating a link between schedule, roles, cost and controls, and deliverables (Treasury Board of Canada Secretariat, n.d.-b).",
+        "Critical path: Agreement with the partner , Site assessment, design, Integration of site commison,acceptance. The project manager records dependencies, who will be the owners, capacity of project , and lead times. changing the final date needs approval."
+      ]
+    },
+    {
+      "id": "sec-2",
+      "numberLabel": "2",
+      "title": "2. Scope page",
+      "category": "charter-scope",
+      "categoryLabel": "Charter & Scope",
+      "paragraphs": [
+        "Scope is a regional network: Coordination, Quick signals, Reporting capacity, debugging and sample transport, up to date facility, Occupied paid working team, providing supplies, and trusted communication. This helps to find the documented surveillance and risk-assessment, trust and cooperation ideas (OAG, 2021; Government of British Columbia, 2022). Regional areas coordination is endorsed within Fraser Health's 20 community service region with a population of more than 1.9 million (Fraser Health, 2024).",
+        "These are items not included: A Hospital, replace medical records DBMS, new legislative powers, vaccine production, and ensure tracking. A analysis of options, costs, schedules, risk, equity and operating effect is compulsory for appealing to change scope. Baseline changes ensured by steering committee; traceability explains each need to an owner, design, test, and funding source.",
+        "Acceptance of the goals to be certify in planning contains implement a regional alert pathway, trained and contactable reserve staff, and commissioned upgrade at chosen sites. Advantages indicate planning and service continuity, not zero transmission or that limitation will never be required."
+      ]
+    },
+    {
+      "id": "sec-3",
+      "numberLabel": "3",
+      "title": "3. Cost page",
+      "category": "schedule-cost",
+      "categoryLabel": "Schedule & Cost",
+      "paragraphs": [
+        "The money shown in the graph is invested on the proposed projects. Team mates should monitor the area, wage, supplier, lifecycle and Operation cost of 5 years. The $80M reserve fund gives funds to trigger response. Whereas $30M is approved to delivery risk. Both of these authorization and reporting. In these documents UFV could offer a simulation that provide training equipment’s and paid placement. No guarantees are made for any campus or site work other than as approved by UFV. Gate 2 is in need of the cost basis, annual cash flow, vendor plan and operating forecast for the future after 2029. Excessive spends are called out in monthly reports for corrective actions. If there is an excess money spending are monitored and action is taken on it. Stakeholders are Fraser Health, Local government, labs, Providers, community, residents.",
+        "This project is supported by PHAC and federal agencies for planning and sharing od data purposes. The activities of national planning require coordination of work among jurisdictions and among Indigenous partners (PHAC, n.d.)."
+      ]
+    },
+    {
+      "id": "sec-4",
+      "numberLabel": "4",
+      "title": "4. Project stakeholders",
+      "category": "people-governance",
+      "categoryLabel": "People & Governance",
+      "paragraphs": [
+        "A stakeholder registered documents the authority, interest, impacts, data needed, interaction method and relationship owner. It differentiate between authorizers, operators and sellers and between impacted communities and those who are consulted; Discussion is not considered consent or approval.",
+        "The clinics and public-health responsibilities of Fraser Health and Provincial authorities remain unchanged. Local governments managing emergency management within their jurisdiction, UFV coordinates its own campus and academic involvement, sellers provide terms and condition for contracts, and community partners influence services that are obtainable. This steering committee is a forum to coordinate common decisions on the project without supplanting the decisions. Prepare stakeholder influence & interest map (check where stakeholders influence & how they want to be engaged by partners): This map is used to direct engagement, not prioritize rights and concerns. In addition, indigenous governments are rights-holders and establish their own engagement processes which must not be diminished to a low power form."
+      ]
+    },
+    {
+      "id": "sec-5",
+      "numberLabel": "5",
+      "title": "5. Three spheres of system management",
+      "category": "people-governance",
+      "categoryLabel": "People & Governance",
+      "paragraphs": [
+        "Value and operating cost, governance, staff and workflows, data, facilities, cybersecurity and support are all areas that need to align in the business, organization and technology. All three are examined by each Waterfall design gate, with the business, operational and technical owners agreeing on benefits, capacity, integration and lifecycle requirements. A tracking tool would not be acceptable just because it is technically functional; it must have authorization of data, trainers, privacy, protections, A stakeholder who is interesting to fund the tool, and have measurable improvement in planned time."
+      ]
+    },
+    {
+      "id": "sec-6",
+      "numberLabel": "6",
+      "title": "6. Four frames of organizations and UFV",
+      "category": "people-governance",
+      "categoryLabel": "People & Governance",
+      "paragraphs": [
+        "Bolman and Deal have developed four frames: the structural, the human resource, the political and the symbolic (2017). In UFV it known as the trusted and inclusive work that includes explanatory roles of approval, work planning, safety and training, structuring partners' interests and the public mission of the university. TFR training and student placement and evaluation can be done on UFV premises, subject to the approval of the leadership of UFV and adequate support from the college with costs, supervision, safety, ethics, data and maintenance. Four-frame is reviewed at the these stages: initiation, design, deliver to make sure that the project is conscious of formal structures and settled impacts. Academic calendars might not be completed, staff workload might not be determined, and the security and responsibility for facilities might not be determined."
+      ]
+    },
+    {
+      "id": "sec-7",
+      "numberLabel": "7",
+      "title": "7. Champion",
+      "category": "people-governance",
+      "categoryLabel": "People & Governance",
+      "paragraphs": [
+        "Chosen champion: Mr. Stephen Smith, Fraser Health Executive Sponsor, and the Chief Medical Health Officer from Fraser Health. The champion is not accepted and instead is proposed to be involved in readiness, eliminate senior obstacles and link evidence to regional planning. A multi-partner steering committee provides approval for major scope, cost, and schedule decisions, and a project director is responsible for delivering the project. There is no change to statutory authority. These are documented in the charter and controlled by the roles of the Committee of Treasury Board Canada Secretariat (n.d.-b)."
+      ]
+    },
+    {
+      "id": "sec-8",
+      "numberLabel": "8",
+      "title": "8. Deliverables",
+      "category": "charter-scope",
+      "categoryLabel": "Charter & Scope",
+      "paragraphs": [
+        "Charter and governance, readiness office and playbook, privacy protected reporting, exercises and corrective actions, evaluations, rotating supplies, appointed paid surge roster, accessible public information and community grants, facility upgrades, and UFV simulation hub (if approved), and paid handover and closure report. Each of these will have its owner and acceptance test. Facilities must be signed off, tests to be performed for reporting purposes for privacy, security, and accessibility, and staff's readiness for roles. Facilities need to be signed off, tests needed for reporting for privacy/security/accessibility, and role readiness for staff."
+      ]
+    },
+    {
+      "id": "sec-10",
+      "numberLabel": "10",
+      "title": "10. Design Methodology: Top-Down/Bottom-Up",
+      "category": "charter-scope",
+      "categoryLabel": "Charter & Scope",
+      "paragraphs": [
+        "Project development is in line with Waterfall approach: initiation – requirements – planning/design – acquisition/construction – testing – closing. Written requirements and gates allow for the analysis of important facilities, contracts, and approval based on fixed date in 2029 (Schwalbe, 2019; Treasury Board of Canada Secretariat, n.d.-b). The of late change chances is not considered by initial partner identification, site investigation, blue prints and design reviews; and if something have to expand that will only carried out after the gate approval.",
+        "Gate justification requires the following: approved charter during the start-up phase; signed baseline documents after planning; design/privacy review validated before acquisition; construction/integration documentation before testing; and acceptance, along with named operating owners before closure. A gate is able to block off any work if evidence is incomplete."
+      ]
+    },
+    {
+      "id": "sec-10-1",
+      "numberLabel": "10.1",
+      "title": "10.1. Initiating, planning, execution, control and close-out",
+      "category": "charter-scope",
+      "categoryLabel": "Charter & Scope",
+      "paragraphs": [
+        "Initiate – authorizes needs, sponsor, scope, stakeholders, planning. Planning baselines are schedule, budget, staffing, quality, procurement, communication, risk and benefits. Execution hires, procures, constructs, trains and communicates. Controls, monitors cost, schedule, risk, defect, vendors, and changes and corrects variances. Close-out is deliverable acceptance, transfer of operation, contract reconciliation, and lessons learned documentation. These groups develop the project charter and reports (Treasury Board of Canada Secretariat, n.d.-b).",
+        "The change control process must have a written request for the change, impact assessment, recommendation, record of approval and new baseline. Project manager may correct work within tolerance limits; change in material, cost or schedule shall be referred to steering committee and funding authority."
+      ]
+    },
+    {
+      "id": "sec-11",
+      "numberLabel": "11",
+      "title": "11. Tasks in pre-initiation",
+      "category": "charter-scope",
+      "categoryLabel": "Charter & Scope",
+      "paragraphs": [
+        "Involves problem identification and its outcome, mapping current service gaps, comparing minimum, digital, facility, and integrated solutions, engaging partners and community, assessing authorization, privacy, ethics, and data sharing, assessing the sites, capital and operational cost estimation, and testing the deadline of 2029. The procedure for Gate 1 is done only when it is required, when there is interest on the part of the partner, when governance options are in place, and when there is a credible planning path. The charter consists of four other contributions from finance, procurement, IT, real property, and HR (Treasury Board of Canada Secretariat, 2019)."
+      ]
+    },
+    {
+      "id": "sec-12",
+      "numberLabel": "12",
+      "title": "12. Progress Reports",
+      "category": "quality-risk-closure",
+      "categoryLabel": "Quality, Risk & Closure",
+      "paragraphs": [
+        "Forecasting for milestones and completion date, budgeted costs, expended costs, committed costs, forecast costs, top risks, issues and change, test defects, procurement, resourcing, engagement, and benefits are all reflected in the sponsor reports done on a monthly basis. Information that is put in red/amber color in the list includes the cause, owner, recovery plan and date of decision. The reports for the public services and procurement investments are issued to the public on a quarterly basis which gives the community an overview of the expenditure, progress, exercise, mitigations, and responses based on the feedback, without revealing any personal or security-sensitive information (Public Services and Procurement Canada, 2025).",
+        "Red/amber/green threshold for reporting that is applied consistently in the report. The project office ensures that the financial information is verified with the finance leads and the milestone information is checked with the workstream owners before issuing the report. All major safety and privacy incidents are immediately communicated and referred to the relevant parties."
+      ]
+    },
+    {
+      "id": "sec-13",
+      "numberLabel": "13",
+      "title": "13. SWOT analysis",
+      "category": "charter-scope",
+      "categoryLabel": "Charter & Scope",
+      "paragraphs": [
+        "Snapshot of Ready Valley 2029 — SWOT proposal stage:",
+        "The chart reflects assumptions built into the proposals: the presence of services at the regional and national levels is a strength; decentralization and lack of baselines are the weaknesses; upgrading facilities and training represent opportunities; pathogens, misinformation, cyber incidents, inflation, and short-term funding are the threats. These are not audit findings. They can be used to augment, but not substitute for, option and risk analyses (PHAC, n.d.)."
+      ]
+    },
+    {
+      "id": "sec-14",
+      "numberLabel": "14",
+      "title": "14. Return on investment and payback analysis",
+      "category": "schedule-cost",
+      "categoryLabel": "Schedule & Cost",
+      "paragraphs": [
+        "A precise return on investment or payback cannot be guaranteed in a case of an unforeseen outbreak. The evaluator will undertake a comparison of avoided disruption, emergency premiums and service interruptions in low scenario, central scenario and high scenario without double counting based on the given assumptions. Statistics Canada reports that the extent of disruption at the end of 2020 was 1.1 million workers experiencing job or hour losses (2021), representing the disruption cost without savings that would be experienced from this recommendation. Report scheduled helps in separately before scale-up; test sensitivity to severity, timing, uptake, operating cost.",
+        "The Net Present Value, payback period and return on investment (Net benefits / Lifetime Cost) are calculated in the model. There should be credible evidence and causal relationship to qualify as guaranteed cash savings. The assumptions are independently reviewed before investment gates."
+      ]
+    },
+    {
+      "id": "sec-15",
+      "numberLabel": "15",
+      "title": "15. Project quality management",
+      "category": "quality-risk-closure",
+      "categoryLabel": "Quality, Risk & Closure",
+      "paragraphs": [
+        "The quality plan outlines the quality standards, evidence base, reviewers, auditing process, defect correction and acceptance criteria for each deliverable. The criteria are approved by the owners of clinical, facilities, privacy, security and operations and the quality lead monitors the assurance and control results (Treasury Board of Canada Secretariat, n.d.-a).",
+        "The following are considered Quality Criteria: availability, data accuracy, play books, safe facility, qualified staff, validation of laboratory testing, confidentiality of the data, and rotation of items. Reviews take place at design, piloting and transfer phase. Defects MUST be reviewed and repaired, retested and accepted – not possible to waive to meet the date, critical defects MUST be reviewed and repaired, retested and accepted.",
+        "Quality indicators are: Alerts being prompted, Completeness of data, Attainment of exercise objectives, Critical defect closure, Commissioning of equipment, Competency of training, Accessibility of communication. The quality lead not only reports the number of pass and fails but also shows trend data that can be tackled across work streams."
+      ]
+    },
+    {
+      "id": "sec-16",
+      "numberLabel": "16",
+      "title": "16. Project Charter",
+      "category": "charter-scope",
+      "categoryLabel": "Charter & Scope",
+      "paragraphs": [
+        "Ready Valley 2029; sponsor proposed as Fraser Health and champion as Chief Medical Health Officer; project director yet to be named; project to end on Dec. 31, 2029; hypothetical funding at CAD $1 billion. Data, communications, exercises, evaluation, transition, facilities, workforce and data, and regional coordination all fall under the scope. New hospital, new authorities, mandated monitoring and production of vaccines are all exceptions. The signed charter will define the objectives, deliverables, roles, risks, milestones, budget, reporting, change control and operating owners of the project, but is intended for planning purposes only, and not for construction or awards (Treasury Board of Canada Secretariat, n.d.-b)."
+      ]
+    },
+    {
+      "id": "sec-17",
+      "numberLabel": "17",
+      "title": "17. Testing and cost of quality",
+      "category": "quality-risk-closure",
+      "categoryLabel": "Quality, Risk & Closure",
+      "paragraphs": [
+        "The following needs to be tested prior to acceptance: requirements, de-identified data flows, interfaces, accessibility, privacy, security, load, backup and recovery. Verify laboratory tracking/cold chain, assess staff competency, and initiate alerts, decision making, staffing, materials, communication, service continuity, and then continue testing at the commissioning facilities. Record the results for pass/fail, defects, defect owners, retesting and sign-off. Cost of quality is defined as the prevention and appraisal costs, plus internal rework and external failures. One method to avoid these defects is to investigate them before becoming a live defect that can cause unsafe information or service interruption and delayed care.",
+        "Test environment can only utilize synthetic/de-identified information as a result of a formal privacy review. Accessibility, languages, backup communications, material distribution, etc. are part of failed test scenarios that have to be corrected and tested again in order to pass; emergency exercises are an additional requirement."
+      ]
+    },
+    {
+      "id": "sec-18",
+      "numberLabel": "18",
+      "title": "18. Forecast HR management and staffing",
+      "category": "people-governance",
+      "categoryLabel": "People & Governance",
+      "paragraphs": [
+        "HR staff will consist of a Director, a Scheduler/Controller, financial and procurement leads, clinical/public health specialists, data and cyber specialists, facilities and infection control specialists, laboratory/logistics coordinators, workforce specialists, UFV and Indigenous relations liaison, communications/accessibility specialists, quality, evaluation, record and training specialists. Staff will be doubled up where required; recruitment for continuous controls, data, security and training tasks; purchase of specialized construction, software, laboratory, translation and evaluation services. Planned FTEs, proficiency, compensation and employment terms, time duration, ease, safety and post-project employment comes under $190M staff budget."
+      ]
+    },
+    {
+      "id": "sec-19",
+      "numberLabel": "19",
+      "title": "19. Motivation for the project",
+      "category": "people-governance",
+      "categoryLabel": "People & Governance",
+      "paragraphs": [
+        "This project have a clear goal to achieve. Less backfilling. Trainees should get paid with limited work load. Wellness for each worker should be considered and they will be rewarded as well. Partners should helps to motivate the staff. If there is any problem find it without disclosing the name or mention any one. Compensate for community expertise. If seniors have any idea share it with staff members. Monthly strain assessments, training, feedback allow for the assessment and adjustment making.",
+        "Managers and assistant managers or supervisor will fix the meetings and discuss the aim of the project and what are the risk and improvement areas and share it to staff. Review achievement for work and community. Explain the benefits of feedback for making decisions. No unpaid overtime."
+      ]
+    },
+    {
+      "id": "sec-20",
+      "numberLabel": "20",
+      "title": "20. Resource planning",
+      "category": "schedule-cost",
+      "categoryLabel": "Schedule & Cost",
+      "paragraphs": [
+        "The assignment of ownership of all the work packages, labor estimation, dependencies, procurement requests, scheduling, and acceptance documentation should be done. The clinicians volume, facilities, the data owner , UFV along with other community partners should be stocked. All conflicts must be reviewed. Training class, data prevention, labs, equipment and exercising site must be reviewed. Track maintenance, replacement, warranties and disposition cost should be written.",
+        "Resource forecasts are monitored monthly and accordingly to the cash flow. Professionals meeting should be done within time gap, minimum stock of supplies, expiry rotation and backup suppliers. The project operating funds are not topped up with Readiness Reserve."
+      ]
+    },
+    {
+      "id": "sec-21",
+      "numberLabel": "21",
+      "title": "21. Communicating with stakeholders",
+      "category": "people-governance",
+      "categoryLabel": "People & Governance",
+      "paragraphs": [
+        "Monthly, status, risks, decisions, and projections are communicated with steering committee members. Monthly, operator playbooks, data definitions, training materials, contacts and results from exercises are provided to operators. The UFV acts as the named liaison. Indigenous governments and communities receive drafts early for review and information on revisions that have been made to the plan based on the input of Indigenous people. Information will be made available to residents online, through local trusted sources, in their own language, in plain language by phone and in print through local trusted sources. Quarterly public reporting on expenditures and corrective actions is done. Health authorities/officers lead in emergencies while the project team supports through the appropriate channel. BC experiences: Trust and communications preparedness put to use (Government of British Columbia, 2022).",
+        "Materials are provided in accessible and translated formats as required by partner and community needs. Exercises test the approval process of the message, handling of rumors, and call center redundancy."
+      ]
+    },
+    {
+      "id": "sec-22",
+      "numberLabel": "22",
+      "title": "22. Top ten risks and controls",
+      "category": "quality-risk-closure",
+      "categoryLabel": "Quality, Risk & Closure",
+      "paragraphs": []
+    },
+    {
+      "id": "sec-23",
+      "numberLabel": "23",
+      "title": "23. Needs",
+      "category": "schedule-cost",
+      "categoryLabel": "Schedule & Cost",
+      "paragraphs": [
+        "Ventilation systems improvements, filtration, secure data hosting, cyber security testing, diagnostic services and laboratory support, cold chain logistics, PPE, training, translation, call centre support and independent evaluations are some examples of purchase programs. It may be necessary to have simulation technology, pending the approval of the campus and the prescribed envelopes, in addition to classroom/lab upgrades.",
+        "Tender documents will specify the definition of need, service level, testing process, timeline, lifecycle cost, privacy, accessibility, warranty, data ownership, audit and exit clauses. Evaluate the value, resilience, interoperability, capacity of the supplier and the risk factor. Tendering activities will involve a review by cross-functional leads, an award process pending the approval of budget and Waterfall (Treasury Board of Canada Secretariat, n.d.-a; Public Services and Procurement Canada, 2025)."
+      ]
+    },
+    {
+      "id": "sec-24",
+      "numberLabel": "24",
+      "title": "24. Managing stakeholders",
+      "category": "people-governance",
+      "categoryLabel": "People & Governance",
+      "paragraphs": [
+        "Make use of the stakeholder register to record decisions and dates of response, make commitments and conduct special meetings. Escalate outstanding issues to workstream, director, sponsor, and the steering committee. Honor jurisdiction and involve indigenous governments as rights holders early in the engagement process (Government of British Columbia, 2022). Ensure that residents and workers have clear ways to give feedback to UFV, which can be done on campus governance. Document participation gaps honestly with its scope and risk."
+      ]
+    },
+    {
+      "id": "sec-25",
+      "numberLabel": "25",
+      "title": "25. Closing process",
+      "category": "quality-risk-closure",
+      "categoryLabel": "Quality, Risk & Closure",
+      "paragraphs": [
+        "When acceptance testing is complete, critical defects are sorted out, operators and sustaining resources are determined, staff are trained and facilities commissioned, warranties and inventories are accepted, privacy owners identified and residual risks accepted, and costs are reconciled. In the closure report of the director will contain a comparison of the planned and actual scope, time, cost, quality, risks, benefits and commitments; identify the remaining actions required to complete; capture the lessons learned; and return unspent funds according to funding principles. Ongoing readiness is maintained through the process of maintenance, exercises, training, rotating of supplies and capturing of benefits."
+      ]
+    }
+  ],
+  "references": [
+    {
+      "citation": "Bolman, L. G., & Deal, T. E. (2017). Reframing organizations: Artistry, choice, and leadership (6th ed.). Jossey-Bass.",
+      "url": "https://doi.org/10.1002/9781119281856"
+    },
+    {
+      "citation": "Fraser Health. (2024). Wellness Promotion Program Strategy 2024–2029.",
+      "url": "https://www.fraserhealth.ca/-/media/Project/FraserHealth/FraserHealth/Health%20Topics/Healthier%20communiities/Wellness%20Promotion%20Strategy%202024-2029-digital.pdf"
+    },
+    {
+      "citation": "Government of British Columbia. (2022). COVID-19 lessons learned review.",
+      "url": "https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/reports/covid-19_lessons_learned_report.pdf"
+    },
+    {
+      "citation": "Public Health Agency of Canada. (n.d.). Canada’s pandemic preparedness plan. Government of Canada.",
+      "url": "https://www.canada.ca/en/public-health/services/emergency-preparedness-response/about-new-pandemic-plan.html"
+    },
+    {
+      "citation": "Public Services and Procurement Canada. (2025). Practitioner’s guide for pricing. Government of Canada.",
+      "url": "https://canadabuys.canada.ca/sites/default/files/2025-06/practitioner%27s%20guide%20for%20procurement%20pricing%202025-1_june%202025_0.pdf"
+    },
+    {
+      "citation": "Schwalbe, K. (2019). Information technology project management (7th ed.). Cengage Learning.",
+      "url": "https://ibalondon.uk/wp-content/uploads/2024/01/Information-Technology-Project-Management-7th-Edition.pdf"
+    },
+    {
+      "citation": "Treasury Board of Canada Secretariat. (n.d.-a). Government of Canada project management community competencies. Government of Canada.",
+      "url": "https://www.canada.ca/en/treasury-board-secretariat/services/professional-development/investment-management-communities/professional-development/project-management-community-competencies.html"
+    },
+    {
+      "citation": "World Health Organization. (2023). Defining collaborative surveillance: A core concept for strengthening the global architecture for health emergency preparedness, response, and resilience.",
+      "url": "https://www.who.int/publications/i/item/9789240074064"
+    }
+  ],
+  "ganttPeriods": [
+    "2026 Q4",
+    "2027 H1",
+    "2027 H2",
+    "2028 H1",
+    "2028 H2",
+    "2029 H1",
+    "2029 H2"
+  ],
+  "ganttTracks": [
+    {
+      "label": "Initiation & partner agreements",
+      "startIndex": 0,
+      "endIndex": 0,
+      "markerIndex": 0,
+      "markerType": "diamond",
+      "gateLabel": "Gate 1 · Charter & partner sign-off"
+    },
+    {
+      "label": "Readiness assessment & requirements",
+      "startIndex": 1,
+      "endIndex": 1,
+      "markerIndex": 1,
+      "markerType": "diamond",
+      "gateLabel": "Gate 2 · Baseline scope, cost & risk"
+    },
+    {
+      "label": "Design, reviews & procurement",
+      "startIndex": 2,
+      "endIndex": 2,
+      "markerIndex": 2,
+      "markerType": "diamond",
+      "gateLabel": "Gate 3 · Privacy & design validation"
+    },
+    {
+      "label": "Facilities, data, labs & hiring",
+      "startIndex": 3,
+      "endIndex": 4,
+      "markerIndex": 3.5,
+      "markerType": "dot",
+      "gateLabel": "Active delivery · Build & integration"
+    },
+    {
+      "label": "Training, exercises & expansion",
+      "startIndex": 3,
+      "endIndex": 6,
+      "markerIndex": 5,
+      "markerType": "diamond",
+      "gateLabel": "Gate 5 · Exercise & verification"
+    },
+    {
+      "label": "Handover, audit & closure",
+      "startIndex": 6,
+      "endIndex": 6,
+      "markerIndex": 6,
+      "markerType": "dot",
+      "gateLabel": "Gate 6 · Operational transfer & close-out"
+    }
+  ],
+  "costs": [
+    {
+      "label": "Facility readiness & clean air",
+      "amountMillions": 270
+    },
+    {
+      "label": "Workforce, training & backfill",
+      "amountMillions": 190
+    },
+    {
+      "label": "Surveillance, data & cyber",
+      "amountMillions": 130
+    },
+    {
+      "label": "Testing, labs & logistics",
+      "amountMillions": 100
+    },
+    {
+      "label": "Rotating strategic supplies",
+      "amountMillions": 70
+    },
+    {
+      "label": "Community & communication",
+      "amountMillions": 60
+    },
+    {
+      "label": "Evaluation & exercises",
+      "amountMillions": 40
+    },
+    {
+      "label": "Program management",
+      "amountMillions": 30
+    },
+    {
+      "label": "Readiness reserve fund",
+      "amountMillions": 80,
+      "isReserve": true
+    },
+    {
+      "label": "Project contingency",
+      "amountMillions": 30
+    }
+  ],
+  "workstreams": [
+    {
+      "workstream": "Facility readiness and clean-air upgrades",
+      "allocation": "$270,000,000",
+      "plannedUse": "Chosen hospital, community, and UFV facilities"
+    },
+    {
+      "workstream": "Workforce, training and backfill",
+      "allocation": "$190,000,000",
+      "plannedUse": "Paid reserve roster, new hiring clinical and training,"
+    },
+    {
+      "workstream": "Surveillance, data and cybersecurity",
+      "allocation": "$130,000,000",
+      "plannedUse": "Safe regional reporting, data quality, privacy maintain, cyber security, support."
+    },
+    {
+      "workstream": "Testing, laboratory and logistics",
+      "allocation": "$100,000,000",
+      "plannedUse": "Testing equipment, mobile collection,"
+    },
+    {
+      "workstream": "Rotating strategic supplies",
+      "allocation": "$70,000,000",
+      "plannedUse": "PPE kits, respirators, tests and selected clinical consumables,"
+    },
+    {
+      "workstream": "Community supports and communication",
+      "allocation": "$60,000,000",
+      "plannedUse": "Accessible multilingual materials, call service"
+    },
+    {
+      "workstream": "Evaluation and exercises",
+      "allocation": "$40,000,000",
+      "plannedUse": "Independent evaluations, baseline measures, applied research, regional exercises and after-action reviews."
+    },
+    {
+      "workstream": "Program management and change control",
+      "allocation": "$30,000,000",
+      "plannedUse": "Project office, controls, legal, finance, records, communications and change management."
+    },
+    {
+      "workstream": "Pandemic Readiness Reserve Fund",
+      "allocation": "$80,000,000",
+      "plannedUse": "Separate, audited fund for trigger-based surge purchasing, .",
+      "isReserve": true
+    },
+    {
+      "workstream": "Controlled project contingency",
+      "allocation": "$30,000,000",
+      "plannedUse": "Approved documentation and uncertainity measures"
+    },
+    {
+      "workstream": "TOTAL",
+      "allocation": "$1,000,000,000",
+      "plannedUse": "100% of hypothetical investment.",
+      "isTotal": true
+    }
+  ],
+  "stages": [
+    {
+      "step": "1 INITIATE",
+      "detail": "Charter · sponsor"
+    },
+    {
+      "step": "2 PLAN",
+      "detail": "Scope · cost · risk"
+    },
+    {
+      "step": "3 DESIGN & BUY",
+      "detail": "Approve · procure"
+    },
+    {
+      "step": "4 BUILD",
+      "detail": "Sites · systems · team"
+    },
+    {
+      "step": "5 TEST & ACCEPT",
+      "detail": "Exercise · verify"
+    },
+    {
+      "step": "6 HAND OVER",
+      "detail": "Owners · operations"
+    }
+  ],
+  "stakeholders": {
+    "keepAligned": {
+      "title": "KEEP ALIGNED",
+      "position": "High Influence · Lower Interest",
+      "items": [
+        "Provincial and federal partners",
+        "Regulators and major funders",
+        "Key vendors at decision gates"
+      ]
+    },
+    "workClosely": {
+      "title": "WORK CLOSELY",
+      "position": "High Influence · Higher Interest",
+      "items": [
+        "Fraser Health sponsor and operators",
+        "Indigenous governments / rights-holders",
+        "Participating local governments and UFV"
+      ]
+    },
+    "monitor": {
+      "title": "MONITOR",
+      "position": "Lower Influence · Lower Interest",
+      "items": [
+        "Broader public outside pilot areas",
+        "Potential vendors before procurement",
+        "Adjacent service organizations"
+      ]
+    },
+    "listenInform": {
+      "title": "LISTEN & INFORM",
+      "position": "Lower Influence · Higher Interest",
+      "items": [
+        "Residents, patients, caregivers",
+        "Front-line workers and community groups",
+        "People facing access barriers"
+      ]
+    }
+  }
+}
